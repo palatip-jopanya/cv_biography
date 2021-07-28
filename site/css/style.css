@@ -1,4 +1,47 @@
 body {
+	background-color: whitesmoke	;
+
+}
+
+#header-nav {
 	background-color: blue;
-	
+}
+
+.myImg	{
+	height: 480px;
+	margin-left: 20px;
+}
+
+.navbar-brand {
+	margin-left: 16px;
+}
+
+.row {
+	margin-top: 70px;
+}
+
+.container-fluid {
+	margin-top: 16px;
+}
+
+.name {
+	margin-top: 16px;
+}
+
+#col8 {
+	background-color: lightskyblue;
+}
+
+.sbold {
+	font-weight: bold;
+}
+
+a.active {
+  background-color: #04AA6D;
+  color: white;
+  padding: 5px
+}
+
+p {
+	margin: 5px;
 }
