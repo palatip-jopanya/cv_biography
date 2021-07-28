@@ -9,7 +9,10 @@ body {
 
 .myImg	{
 	height: 480px;
-	margin-left: 20px;
+	margin-left: 40px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	border-radius: 1%;
 }
 
 .navbar-brand {
@@ -20,16 +23,20 @@ body {
 	margin-top: 70px;
 }
 
+.col-xl-8 {
+	background-color: skyblue;
+}
+
+.col-xl-4 {
+	background-color: dimgrey;
+}
+
 .container-fluid {
 	margin-top: 16px;
 }
 
 .name {
 	margin-top: 16px;
-}
-
-#col8 {
-	background-color: lightskyblue;
 }
 
 .sbold {
