@@ -96,7 +96,8 @@ p {
 }
 
 .fa-github {
-	color: white;
+	color: black;
+	background: white;
 	width: fit-content;
 }
 
