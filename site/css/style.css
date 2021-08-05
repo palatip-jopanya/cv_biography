@@ -94,3 +94,12 @@ p {
   background: #125688;
   color: white;
 }
+
+.fa-github {
+	color: white;
+	width: fit-content;
+}
+
+input.input {
+	margin-top: 100px;
+}
