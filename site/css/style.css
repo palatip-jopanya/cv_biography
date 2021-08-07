@@ -1,5 +1,6 @@
 body {
-	background-color: whitesmoke	;
+	background-color: whitesmoke;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 
 }
 
@@ -37,7 +38,8 @@ body {
 
 .name {
 	margin-top: 30px;
-	
+	margin-left: 30px;
+	font-weight: bold;
 }
 
 .sbold {
@@ -104,4 +106,17 @@ p {
 
 input.input {
 	margin-top: 100px;
+}
+
+.paragraph1 {
+	margin: 50px;
+}
+
+.title1 {
+	margin-left: 30px;
+}
+
+.title2 {
+	font-weight: bold;
+	margin-left: 30px;
 }
