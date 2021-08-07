@@ -23,12 +23,12 @@ body {
 	margin-top: 65px;
 }
 
-.col-xl-8 {
+.col-lg-8 {
 	background-color: skyblue;
 }
 
-.col-xl-4 {
-	background-color: whitesmoke;
+.col-lg-4 {
+	background-color: red;
 }
 
 .container-fluid {
