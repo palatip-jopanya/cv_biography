@@ -19,6 +19,13 @@ body {
 	margin-top: 16px;
 }
 
+.myImgac2 {
+	border-radius: 1%;
+	height: auto;
+	width: 400px;
+	margin: 10px;
+}
+
 
 .myImgbio2 {
 	border-radius: 1%;
@@ -146,4 +153,8 @@ input.input {
 
 .floatleft {
 	float: right;
+}
+
+#first {
+	margin-top: 80px;
 }
