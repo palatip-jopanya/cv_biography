@@ -26,6 +26,13 @@ body {
 	margin: 10px;
 }
 
+.myImgac3 {
+	border-radius: 1%;
+	height: auto;
+	width: 600px;
+	margin: 10px;
+}
+
 
 .myImgbio2 {
 	border-radius: 1%;
@@ -157,4 +164,8 @@ input.input {
 
 #first {
 	margin-top: 80px;
+}
+
+.last {
+	margin-bottom: 30px;
 }
