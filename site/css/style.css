@@ -12,6 +12,14 @@ body {
 	left: 10%;
 }
 
+.myImgac1 {
+	border-radius: 1%;
+	height: auto;
+	width: 90%;
+	margin-top: 16px;
+}
+
+
 .myImgbio2 {
 	border-radius: 1%;
 	width: 380px;
@@ -129,4 +137,13 @@ input.input {
 .mypdf {
 	width: 100%;
 	height: 800px;
+}
+
+.act1 {
+	marin-left: 0px;
+	margin-top: 16px;
+}
+
+.floatleft {
+	float: right;
 }
